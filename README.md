@@ -37,7 +37,7 @@ for duplicates via the InChIKey, then update the original PubChem Substance reco
 with the additional thesis reference. 
 
 A complete list of all structures indexed is available in the file 
-UALIB_Chemical_Structures_REGID.txt
+UALIB_Chemical_Structures_REGID.csv (tab delimited)
 
 ## What is your workflow? 
 
@@ -105,8 +105,4 @@ Andrews, D. M.; Broad, L. M.; Edwards, P. J.; Fox, D. N. A.; Gallagher, T.;
 Garland, S. L.; Kidd, R.; Sweeney, J. B. The Creation and Characterisation of 
 a National Compound Collection: The Royal Society of Chemistry Pilot. Chem. Sci. 2016,
 7 (6), 3869–3878. [DOI:10.1039/C6SC00264A](https://doi.org/10.1039/C6SC00264A)
-
-
-
-
 

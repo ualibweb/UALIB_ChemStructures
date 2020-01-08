@@ -1,0 +1,12 @@
+# mark these files as binary
+
+*.xlsx binary
+*.docx binary
+*.pdf binary
+*.jpg binary
+*.png binary
+*.ods binary
+
+# do not convert line endings on .sdf files, keep them as unix LF
+
+*.sdf text eol=lf
