@@ -1,0 +1,11 @@
+[Se]=P(C1CCCCC1)(C1CCCCC1)C1CCCCC1
+[Na]OS(=O)(=O)CCCP(=[Se])(C12CC3CC(CC(C3)C1)C2)C12CC3CC(CC(C3)C1)C2
+CCCCP(=[Se])(C12CC3CC(CC(C3)C1)C2)C12CC3CC(CC(C3)C1)C2
+CC(C)(C)P(=[Se])(C(C)(C)C)C(C)(C)C
+[H]P([Se])(CCCS(=O)(=O)O[Na])(C(C)(C)C)C(C)(C)C
+CC(C)(C)P(=[Se])(CCCP(=[Se])(C(C)(C)C)C(C)(C)C)C(C)(C)C
+CC(C)(C)CP(=[Se])(C(C)(C)C)C(C)(C)C
+CCCCP(=[Se])(C(C)(C)C)C(C)(C)C
+CC(C)(C)CP(=[Se])(CC(C)(C)C)CC(C)(C)C
+CC(C)(C)CP(=[Se])(CC(C)(C)C)C(C)(C)C
+[Se]=P(C1=CC=CC=C1)(C1=CC=CC=C1)C1=CC=CC=C1
